@@ -1,2 +1,7 @@
-# demo-barreiro-asociados
-Demo web para Barreiro &amp; Asociados — diseñada por eterlab.
+# Barreiro & Asociados
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
